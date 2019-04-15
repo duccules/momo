@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\9vand\.android\build-cache\c58a52bb1f58535e3806eb3a465c5c79fb719078\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\projects\mobile-sdk\android\app\build\intermediates\pre-dexed\debug\classes_4fbf4e730c15c6fcf34177ce8a8b61ba46c0ee40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\9vand\.android\build-cache\4fc97ed80eed89ad95e210db64d62268e34a81ba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\projects\mobile-sdk\android\app\build\intermediates\pre-dexed\debug\classes_e9e544c096c4531b0b21ae602cb791aad9fd0b4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\9vand\.android\build-cache\ed5553b97c29d0d288694d2e618d18dbb79d6417\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\projects\mobile-sdk\android\app\build\intermediates\pre-dexed\debug\classes_92421d7dfee839b61e98228670017924144b17f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\9vand\.android\build-cache\7969e6a53179e85259af18baed5ee146f35dc188\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\projects\mobile-sdk\android\app\build\intermediates\pre-dexed\debug\classes_8b136bbf3953f421475aceaff5524dde46afa684.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\9vand\.android\build-cache\d5e9e3086fa1654636291dde33d69dfc60d5059f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\projects\mobile-sdk\android\app\build\intermediates\pre-dexed\debug\classes_42a13ec723bc4359ad4a08c51352e39e6eb54a1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\9vand\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\projects\mobile-sdk\android\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_50aba5d20cb70586b6f588fea29ec2cc2a25c077.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\9vand\.android\build-cache\5e5084e0c3f26f5a007424f10dae07d35b938721\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\projects\mobile-sdk\android\app\build\intermediates\pre-dexed\debug\classes_85fcd9b9ee225acda61d39bf3c46386efab60c95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\9vand\.android\build-cache\9e8fc4b38264a6dc6eb5f958d4fba773526bafbf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\projects\mobile-sdk\android\app\build\intermediates\pre-dexed\debug\classes_d8d0dbe880c8bb8dff4ca43920c63afdfe743a6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\projects\mobile-sdk\android\momo_partner_sdk\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="70315c8b4f8d1f69ca4d87ce11cf0cb962bfc241">
+        <dex dex="E:\projects\mobile-sdk\android\app\build\intermediates\pre-dexed\debug\classes_275cda08e803c3eb1edd2cda217a0ededc79eda2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\9vand\.android\build-cache\274e865aa6c32f205b4d8cc9b3acb1f037dbe68c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\projects\mobile-sdk\android\app\build\intermediates\pre-dexed\debug\classes_623a621be81230d1f02c40364557dcc8aa942fe7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\9vand\.android\build-cache\38044e38d4d743491a53ab464806c16f906a476c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\projects\mobile-sdk\android\app\build\intermediates\pre-dexed\debug\classes_ab260d1e0a0f5f38c2022e489a471611856a2d3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\9vand\.android\build-cache\36382bdb2e5b6996af1cbd0022968b8c7054fc82\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="E:\projects\mobile-sdk\android\app\build\intermediates\pre-dexed\debug\classes_3efc2cf3c68f140566a2f89f2832015534207231.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\9vand\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.5.1\bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc\butterknife-annotations-8.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="E:\projects\mobile-sdk\android\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.5.1_faa7fc912ca3c69234bef54d1003934148d2a1d0.jar" />
+    </item>
+
+</items>

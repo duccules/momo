@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\projects\\mobile-sdk\\android\\momo_partner_sdk\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\9vand\\.android\\build-cache\\4fc97ed80eed89ad95e210db64d62268e34a81ba\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\projects\\mobile-sdk\\android\\momo_partner_sdk\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\9vand\\.android\\build-cache\\4fc97ed80eed89ad95e210db64d62268e34a81ba\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\projects\\mobile-sdk\\android\\momo_partner_sdk\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\9vand\\.android\\build-cache\\4fc97ed80eed89ad95e210db64d62268e34a81ba\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\projects\\mobile-sdk\\android\\momo_partner_sdk\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\9vand\\.android\\build-cache\\4fc97ed80eed89ad95e210db64d62268e34a81ba\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\projects\\mobile-sdk\\android\\momo_partner_sdk\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\9vand\\.android\\build-cache\\4fc97ed80eed89ad95e210db64d62268e34a81ba\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\projects\\mobile-sdk\\android\\momo_partner_sdk\\build\\intermediates\\res\\merged\\release\\anim\\rotator.xml",
+        "source": "E:\\projects\\mobile-sdk\\android\\momo_partner_sdk\\src\\main\\res\\anim\\rotator.xml"
+    },
+    {
+        "merged": "E:\\projects\\mobile-sdk\\android\\momo_partner_sdk\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\9vand\\.android\\build-cache\\4fc97ed80eed89ad95e210db64d62268e34a81ba\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\projects\\mobile-sdk\\android\\momo_partner_sdk\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\9vand\\.android\\build-cache\\4fc97ed80eed89ad95e210db64d62268e34a81ba\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\projects\\mobile-sdk\\android\\momo_partner_sdk\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\9vand\\.android\\build-cache\\4fc97ed80eed89ad95e210db64d62268e34a81ba\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\projects\\mobile-sdk\\android\\momo_partner_sdk\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\9vand\\.android\\build-cache\\4fc97ed80eed89ad95e210db64d62268e34a81ba\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\projects\\mobile-sdk\\android\\momo_partner_sdk\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\9vand\\.android\\build-cache\\4fc97ed80eed89ad95e210db64d62268e34a81ba\\output\\res\\anim\\abc_slide_in_top.xml"
+    }
+]

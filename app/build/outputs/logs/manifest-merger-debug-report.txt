@@ -1,0 +1,102 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\projects\mobile-sdk\android\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from E:\projects\mobile-sdk\android\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from E:\projects\mobile-sdk\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\projects\mobile-sdk\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\projects\mobile-sdk\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\projects\mobile-sdk\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\projects\mobile-sdk\android\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\projects\mobile-sdk\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\projects\mobile-sdk\android\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\projects\mobile-sdk\android\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.github.momodevelopment:momo_partner_sdk:unspecified] E:\projects\mobile-sdk\android\momo_partner_sdk\build\intermediates\bundles\default\AndroidManifest.xml:13:5-18:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\9vand\.android\build-cache\4fc97ed80eed89ad95e210db64d62268e34a81ba\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\9vand\.android\build-cache\274e865aa6c32f205b4d8cc9b3acb1f037dbe68c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\9vand\.android\build-cache\9e8fc4b38264a6dc6eb5f958d4fba773526bafbf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\9vand\.android\build-cache\c58a52bb1f58535e3806eb3a465c5c79fb719078\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\9vand\.android\build-cache\38044e38d4d743491a53ab464806c16f906a476c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\9vand\.android\build-cache\ed5553b97c29d0d288694d2e618d18dbb79d6417\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\9vand\.android\build-cache\5e5084e0c3f26f5a007424f10dae07d35b938721\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\9vand\.android\build-cache\7969e6a53179e85259af18baed5ee146f35dc188\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\9vand\.android\build-cache\d5e9e3086fa1654636291dde33d69dfc60d5059f\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from E:\projects\mobile-sdk\android\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from E:\projects\mobile-sdk\android\app\src\main\AndroidManifest.xml:10:9-35
+	android:hardwareAccelerated
+		ADDED from [com.github.momodevelopment:momo_partner_sdk:unspecified] E:\projects\mobile-sdk\android\momo_partner_sdk\build\intermediates\bundles\default\AndroidManifest.xml:14:9-43
+	android:roundIcon
+		ADDED from E:\projects\mobile-sdk\android\app\src\main\AndroidManifest.xml:9:9-50
+	android:allowBackup
+		ADDED from E:\projects\mobile-sdk\android\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from E:\projects\mobile-sdk\android\app\src\main\AndroidManifest.xml:7:9-45
+	android:theme
+		ADDED from E:\projects\mobile-sdk\android\app\src\main\AndroidManifest.xml:11:9-40
+activity#momo.momo_partner.demo.MainActivity
+ADDED from E:\projects\mobile-sdk\android\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from E:\projects\mobile-sdk\android\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\projects\mobile-sdk\android\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\projects\mobile-sdk\android\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from E:\projects\mobile-sdk\android\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\projects\mobile-sdk\android\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from E:\projects\mobile-sdk\android\app\src\main\AndroidManifest.xml:16:27-74
+activity#momo.momo_partner.demo.PaymentActivity
+ADDED from E:\projects\mobile-sdk\android\app\src\main\AndroidManifest.xml:19:9-52
+	android:name
+		ADDED from E:\projects\mobile-sdk\android\app\src\main\AndroidManifest.xml:19:19-50
+activity#momo.momo_partner.demo.MappingActivity
+ADDED from E:\projects\mobile-sdk\android\app\src\main\AndroidManifest.xml:20:9-52
+	android:name
+		ADDED from E:\projects\mobile-sdk\android\app\src\main\AndroidManifest.xml:20:19-50
+uses-sdk
+INJECTED from E:\projects\mobile-sdk\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.github.momodevelopment:momo_partner_sdk:unspecified] E:\projects\mobile-sdk\android\momo_partner_sdk\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\9vand\.android\build-cache\4fc97ed80eed89ad95e210db64d62268e34a81ba\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\9vand\.android\build-cache\274e865aa6c32f205b4d8cc9b3acb1f037dbe68c\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\9vand\.android\build-cache\9e8fc4b38264a6dc6eb5f958d4fba773526bafbf\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\9vand\.android\build-cache\c58a52bb1f58535e3806eb3a465c5c79fb719078\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\9vand\.android\build-cache\38044e38d4d743491a53ab464806c16f906a476c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\9vand\.android\build-cache\ed5553b97c29d0d288694d2e618d18dbb79d6417\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\9vand\.android\build-cache\5e5084e0c3f26f5a007424f10dae07d35b938721\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\9vand\.android\build-cache\7969e6a53179e85259af18baed5ee146f35dc188\output\AndroidManifest.xml:20:5-43
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\9vand\.android\build-cache\36382bdb2e5b6996af1cbd0022968b8c7054fc82\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\9vand\.android\build-cache\d5e9e3086fa1654636291dde33d69dfc60d5059f\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\9vand\.android\build-cache\4fc97ed80eed89ad95e210db64d62268e34a81ba\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\projects\mobile-sdk\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\projects\mobile-sdk\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\projects\mobile-sdk\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\projects\mobile-sdk\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.github.momodevelopment:momo_partner_sdk:unspecified] E:\projects\mobile-sdk\android\momo_partner_sdk\build\intermediates\bundles\default\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [com.github.momodevelopment:momo_partner_sdk:unspecified] E:\projects\mobile-sdk\android\momo_partner_sdk\build\intermediates\bundles\default\AndroidManifest.xml:11:22-64
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\9vand\.android\build-cache\4fc97ed80eed89ad95e210db64d62268e34a81ba\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\9vand\.android\build-cache\274e865aa6c32f205b4d8cc9b3acb1f037dbe68c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\9vand\.android\build-cache\9e8fc4b38264a6dc6eb5f958d4fba773526bafbf\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\9vand\.android\build-cache\c58a52bb1f58535e3806eb3a465c5c79fb719078\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\9vand\.android\build-cache\38044e38d4d743491a53ab464806c16f906a476c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\9vand\.android\build-cache\ed5553b97c29d0d288694d2e618d18dbb79d6417\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\9vand\.android\build-cache\5e5084e0c3f26f5a007424f10dae07d35b938721\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\9vand\.android\build-cache\7969e6a53179e85259af18baed5ee146f35dc188\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\9vand\.android\build-cache\d5e9e3086fa1654636291dde33d69dfc60d5059f\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\9vand\.android\build-cache\4fc97ed80eed89ad95e210db64d62268e34a81ba\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\9vand\.android\build-cache\4fc97ed80eed89ad95e210db64d62268e34a81ba\output\AndroidManifest.xml:26:9-47

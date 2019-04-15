@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\projects\\mobile-sdk\\android\\momo_partner_sdk\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\9vand\\.android\\build-cache\\4fc97ed80eed89ad95e210db64d62268e34a81ba\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\projects\\mobile-sdk\\android\\momo_partner_sdk\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\9vand\\.android\\build-cache\\4fc97ed80eed89ad95e210db64d62268e34a81ba\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\projects\\mobile-sdk\\android\\momo_partner_sdk\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\9vand\\.android\\build-cache\\4fc97ed80eed89ad95e210db64d62268e34a81ba\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\projects\\mobile-sdk\\android\\momo_partner_sdk\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\9vand\\.android\\build-cache\\4fc97ed80eed89ad95e210db64d62268e34a81ba\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]
